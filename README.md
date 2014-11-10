@@ -22,6 +22,8 @@ $ cd ../..
 $ make
 ```
 
+Alternatively, you can download the precompiled binary file from http://git.pablophg.net/ml_shellexec/downloads/
+
 ### Installing the module
 
 Place ml_shellexec.so compiled in the previous step on *mods/deathmatch/modules* on your existing MTA:SA installation. Then open *mods/deathmatch/mtaserver.conf* and add the following line:
